@@ -66,9 +66,9 @@ and testautomationpractice.blogspot.com.
 
 \## Demo Videos
 
-\- Assignment 1: \[Google Drive Link](<paste link here>)
+\- Assignment 1: \[Google Drive Link](https://drive.google.com/file/d/1ea_nhYImdo8orjf-AMOG2eH3wglGtPEW/view?usp=sharing)
 
-\- Assignment 2: \[Google Drive Link](<paste link here>)
+\- Assignment 2: \[Google Drive Link](https://drive.google.com/file/d/12ioBdbEPhWcfHC4uHiXMQQRzg9gQJMeZ/view?usp=sharing)
 
 \- Assignment 3: \[Google Drive Link](https://drive.google.com/file/d/1xsArkTYS268ECMxdnxLvo5uK9PVpSqJI/view?usp=sharing)
 
