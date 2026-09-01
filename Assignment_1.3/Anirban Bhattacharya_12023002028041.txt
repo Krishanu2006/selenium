@@ -1,0 +1,7 @@
+Day 1 – Installation of Python and Selenium
+
+https://drive.google.com/file/d/1Gz2hOiv-ACXIAOJIkHjXznvzwQpVnFHV/view?usp=drive_link
+
+Day 2 – Introduction to Basic Selectors
+
+https://drive.google.com/file/d/1jfCjysKikMU8ZTOaN9uzX5mF6pvTKyFP/view?usp=drive_link
