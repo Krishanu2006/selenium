@@ -37,12 +37,12 @@ driver.maximize_window()
 # element.send_keys("testing class")
 
 
-#Assignment 2
+# Assignment 2
 # links = driver.find_elements(By.TAG_NAME, "a")
 # for link in links:
 #     print(link.text)
 
-#Assignment 3
+# Assignment 3
 # inputs = driver.find_elements(By.CSS_SELECTOR, 'input[id^="input"]')
 # for inp in inputs:
 #     print(inp.get_attribute("id"))
@@ -51,6 +51,7 @@ driver.maximize_window()
 # for inp in inputs:
 #     print(inp.get_attribute("id"))
 
+# Assignment 4
 button = driver.find_element(By.CSS_SELECTOR, "#section1 > button").click()
 
 time.sleep(5)
