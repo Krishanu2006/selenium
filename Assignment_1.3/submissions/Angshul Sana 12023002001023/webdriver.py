@@ -20,20 +20,27 @@ driver.get("https://testautomationpractice.blogspot.com/")
 
 driver.maximize_window()
 
-name = driver.find_element(By.ID,"name")
-name.send_keys("Angshul Sana")
+#Assignment 1
+# name = driver.find_element(By.ID,"name")
+# name.send_keys("Angshul Sana")
 
-animals = driver.find_element(By.NAME, "animals")
-select= Select(animals)
-select.select_by_visible_text("Cat")
+# animals = driver.find_element(By.NAME, "animals")
+# select= Select(animals)
+# select.select_by_visible_text("Cat")
 
-adress = driver.find_element(By.TAG_NAME, "textarea")
-adress.send_keys("kolkata")
+# adress = driver.find_element(By.TAG_NAME, "textarea")
+# adress.send_keys("kolkata")
 
-apple= driver.find_element(By.LINK_TEXT, "Apple").click()
+# apple= driver.find_element(By.LINK_TEXT, "Apple").click()
 
-element= driver.find_element(By.CLASS_NAME, "form-control")
-element.send_keys("testing class")
+# element= driver.find_element(By.CLASS_NAME, "form-control")
+# element.send_keys("testing class")
+
+
+#Assignment 2
+links = driver.find_elements(By.TAG_NAME, "a")
+for link in links:
+    print(link.text)
 
 
 time.sleep(5)
