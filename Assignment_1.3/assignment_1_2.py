@@ -1,7 +1,3 @@
-# Assignment 1.2: Multiple Element Identification
-# Find multiple elements of the same type on a webpage and work with them
-# Website: https://testautomationpractice.blogspot.com/
-
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
@@ -9,7 +5,7 @@ import time
 driver = webdriver.Chrome()
 driver.maximize_window()
 driver.get("https://testautomationpractice.blogspot.com/")
-time.sleep(3)
+time.sleep(1)
 
 # 1. Find all links and print their text
 print("=== All Links ===")
@@ -31,7 +27,9 @@ print("\n=== All Buttons ===")
 buttons = driver.find_elements(By.TAG_NAME, "button")
 print(f"Total buttons: {len(buttons)}")
 for btn in buttons:
-    print(f"  Button: {btn.text.strip()}")
+    btn_text = btn.text.strip() if btn.text else ""
+    if btn_text:
+        print(f"  Button: {btn_text}")
 
 # 4. Find all checkboxes and select first 3
 print("\n=== Checkboxes ===")
@@ -40,7 +38,7 @@ print(f"Total checkboxes: {len(checkboxes)}")
 for cb in checkboxes[:3]:
     if not cb.is_selected():
         cb.click()
-        time.sleep(0.3)
+        time.sleep(0.1)
     print(f"  {cb.get_attribute('id')} - Selected: {cb.is_selected()}")
 
 # 5. Find all radio buttons and select Male
@@ -73,9 +71,22 @@ print("\n=== All Labels ===")
 labels = driver.find_elements(By.TAG_NAME, "label")
 print(f"Total labels: {len(labels)}")
 for lbl in labels:
-    if lbl.text.strip():
-        print(f"  {lbl.text.strip()}")
+    label_text = lbl.text.strip() if lbl.text else ""
+    if label_text:
+        print(f"  {label_text}")
 
-print("\n=== Done! All tasks completed ===")
-time.sleep(3)
+print("\n" + "=" * 50)
+print("SUMMARY OF ALL ELEMENTS FOUND")
+print("=" * 50)
+print(f"  Links found        : {len(links)}")
+print(f"  Input fields found : {len(inputs)}")
+print(f"  Buttons found      : {len(buttons)}")
+print(f"  Checkboxes found   : {len(checkboxes)}")
+print(f"  Radio buttons found: {len(radios)}")
+print(f"  Dropdown options   : {len(options)}")
+print(f"  Table rows found   : {len(rows)}")
+print(f"  Labels found       : {len(labels)}")
+print("=" * 50)
+
+time.sleep(120)
 driver.quit()
