@@ -55,7 +55,6 @@ Locating child and nested web elements using CSS child (`>`) and descendant sele
 
 # Submission Information
 
-**Group:** 22
 **Module:** Selenium Web Automation  
 **Programming Language:** Python  
 **Automation Tool:** Selenium WebDriver  
