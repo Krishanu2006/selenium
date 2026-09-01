@@ -6,7 +6,7 @@
 |---|---|---:|---|---|
 | **Bibek Sow Mondal** | 12023002022112| 31 | B | CST |
 | **Srishti Chatterjee** | 12023002022033| 33 | A | CST |
-| **Bishal Dutta** | 12023052017076 | 76 | A | CST |
+| **Bishal Dutta** | 12023002022115 | 35 | B | CST |
 
 ---
 
