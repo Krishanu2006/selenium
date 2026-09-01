@@ -51,5 +51,6 @@ driver.maximize_window()
 # for inp in inputs:
 #     print(inp.get_attribute("id"))
 
+button = driver.find_element(By.CSS_SELECTOR, "#section1 > button").click()
 
 time.sleep(5)
