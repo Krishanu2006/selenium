@@ -38,9 +38,18 @@ driver.maximize_window()
 
 
 #Assignment 2
-links = driver.find_elements(By.TAG_NAME, "a")
-for link in links:
-    print(link.text)
+# links = driver.find_elements(By.TAG_NAME, "a")
+# for link in links:
+#     print(link.text)
+
+#Assignment 3
+# inputs = driver.find_elements(By.CSS_SELECTOR, 'input[id^="input"]')
+# for inp in inputs:
+#     print(inp.get_attribute("id"))
+
+# inputs = driver.find_elements(By.CSS_SELECTOR, 'input[id*="put"]')
+# for inp in inputs:
+#     print(inp.get_attribute("id"))
 
 
 time.sleep(5)
