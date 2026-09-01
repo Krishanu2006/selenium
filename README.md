@@ -1,51 +1,51 @@
-| Name | Enrollment No. | Department | Section | Roll No. |
-| :--- | :--- | :--- | :---: | :---: |
-| Yashraj Sharma | 12023002029115 | CSE(IoT, CS & BT) | C | 04 |
-| Suvajit Majhi | 12023002029105 | CSE(IoT, CS & BT) | B | 56 |
-| Tanisha Pan | 12023002029111 | CSE(IoT, CS & BT) | B | 62 |
+# 🧪 Automated Web Testing with Selenium
+
+> **Group 79** | Institute of Engineering & Management (IEM), New Town  
+> **Course:** Selenium Web Automation
 
 ---
 
-### 📚 Assignments & Video Links
+## 👥 Contributors
 
-| Assignment | Objective | Example | Video |
-| :--- | :--- | :--- | :---: |
-| **1: Web Element Identification** | Identify and locate different web elements on a given webpage using `By.ID`, `By.NAME`, `By.TAG_NAME`, `By.LINK_TEXT`, and `By.CLASS_NAME`. | Locate the username field by ID, password field by Name, and a link by Link Text. | [▶️ Watch](https://drive.google.com/file/d/1ea_nhYImdo8orjf-AMOG2eH3wglGtPEW/view?usp=sharing) |
-| **2: Multiple Element Identification** | Identify multiple elements of the same type on a webpage and use Selenium to find and work with the list of elements. | Find all links on a webpage and print their text. | [▶️ Watch](https://drive.google.com/file/d/12ioBdbEPhWcfHC4uHiXMQQRzg9gQJMeZ/view?usp=sharing) |
-| **3: CSS Selector Challenge** | Locate web elements using CSS Selectors, including selectors with wildcards for elements having varying or dynamic attribute values. | Use a CSS wildcard selector to locate elements whose ID starts with `user_`. | [▶️ Watch](https://drive.google.com/file/d/1xsArkTYS268ECMxdnxLvo5uK9PVpSqJI/view?usp=sharing) |
-| **4: Child Nodes Using CSS** | Identify and locate child/nested web elements using CSS child selectors and interact with the required elements. | Locate a button inside a specific div using a CSS child selector. | [▶️ Watch](https://drive.google.com/file/d/1g5hsRkwEvTH64a_M6j2s53kI78cPT1uq/view?usp=sharing) |
-
----
-
-### 📝 Description
-
-* **Assignment 1: Locating Elements Using Basic Selenium Locators**  
-  Demonstrated the five fundamental Selenium locator strategies on `testautomationpractice.blogspot.com`: `By.ID` (located and typed into the name field), `By.NAME` (located and clicked a gender radio button), `By.TAG_NAME` (read the page's `h1` heading text), `By.LINK_TEXT` (located a link by its exact visible text `"Apple"`), and `By.CLASS_NAME` (located an element with class `"form-control"`).
-
-* **Assignment 2: Locating Multiple Elements with find_elements**  
-  Used Selenium's `find_elements()` with `By.TAG_NAME` to locate all anchor/link (`<a>`) elements on `testautomationpractice.blogspot.com`, counted the total number of links found, and printed the visible text of each link.
-
-* **Assignment 3: CSS Selector Challenge (Wildcard Selectors)**  
-  Located web elements using CSS wildcard selectors (`[id^=]`, `[id*=]`, `[id$=]`) on `rahulshettyacademy.com/AutomationPractice` — matched multiple checkboxes and radio buttons sharing a common attribute prefix/pattern.
-
-* **Assignment 4: Child Nodes Using CSS (Child Selectors)**  
-  Identified and located nested/child web elements using CSS child selectors (`fieldset > label > input`, `table > tbody > tr`) on `rahulshettyacademy.com/AutomationPractice` and `testautomationpractice.blogspot.com`.
+| Student Name | University Roll | Enrollment ID | Stream | Section |
+| :--- | :---: | :---: | :---: | :---: |
+| **Yashraj Sharma** | 04 | `12023002029115` | CSE (IoT, CS & BT) | C |
+| **Suvajit Majhi** | 56 | `12023002029105` | CSE (IoT, CS & BT) | B |
+| **Tanisha Pan** | 62 | `12023002029111` | CSE (IoT, CS & BT) | B |
 
 ---
 
-### 🏫 Institution
+## 🚀 Lab Modules & Implementation Details
 
-**Institute:** IEM, NEW TOWN &nbsp;|&nbsp; **Group:** 25 &nbsp;|&nbsp; **Module:** Selenium Web Automation
-
----
-
-### 📌 Note
-
-* All videos are hosted on Google Drive.
-* The videos should be accessible with the appropriate viewing permissions.
+### 🔹 Module 1: Foundational DOM Locators
+* **Target Objective:** Extract and manipulate standard webpage controls using Selenium's primitive locator strategies.
+* **Technical Execution:** Verified input forms on `testautomationpractice.blogspot.com` by injecting text with `By.ID`, toggling radio selections via `By.NAME`, querying header strings with `By.TAG_NAME`, matching exact anchor strings via `By.LINK_TEXT` (`"Apple"`), and referencing styled container classes with `By.CLASS_NAME`.
+* **Demonstration:** [🎥 Watch Module 1 Recording](https://drive.google.com/file/d/1ea_nhYImdo8orjf-AMOG2eH3wglGtPEW/view?usp=sharing)
 
 ---
 
-<div align="center">
-  <b>✨ Selenium Web Automation — Group 79 ✨</b>
-</div>
+### 🔹 Module 2: Bulk Element Extraction & Iteration
+* **Target Objective:** Programmatically locate, aggregate, and iterate through multiple matching elements using batch lookup.
+* **Technical Execution:** Queried all anchor tags (`<a>`) across `testautomationpractice.blogspot.com` using `find_elements(By.TAG_NAME)`. Computed the cumulative link count and looped over the resulting collection to parse and print each element's visible text.
+* **Demonstration:** [🎥 Watch Module 2 Recording](https://drive.google.com/file/d/12ioBdbEPhWcfHC4uHiXMQQRzg9gQJMeZ/view?usp=sharing)
+
+---
+
+### 🔹 Module 3: Pattern Matching with CSS Wildcards
+* **Target Objective:** Identify dynamic and non-static UI elements sharing partial attribute patterns.
+* **Technical Execution:** Configured regex-style CSS substring locators (`^=`, `*=`, `$=`) on `rahulshettyacademy.com/AutomationPractice` to reliably hook into dynamically generated IDs across checkboxes and radio inputs.
+* **Demonstration:** [🎥 Watch Module 3 Recording](https://drive.google.com/file/d/1xsArkTYS268ECMxdnxLvo5uK9PVpSqJI/view?usp=sharing)
+
+---
+
+### 🔹 Module 4: Hierarchical DOM Traversal via Child Selectors
+* **Target Objective:** Access deeply nested target elements through direct parent-to-child relationships.
+* **Technical Execution:** Built strict structural CSS paths (`fieldset > label > input` and `table > tbody > tr`) to select and interact with nested form fields and table row elements across the target testing suites.
+* **Demonstration:** [🎥 Watch Module 4 Recording](https://drive.google.com/file/d/1g5hsRkwEvTH64a_M6j2s53kI78cPT1uq/view?usp=sharing)
+
+---
+
+## 📂 Submission Guidelines & Access
+
+* All practical walkthroughs are recorded and stored on Google Drive.
+* Share settings are set to public view for evaluation purposes.
