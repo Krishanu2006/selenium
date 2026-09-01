@@ -47,5 +47,5 @@
 ---
 
 <div align="center">
-  <b>✨ Selenium Web Automation — Group 25 ✨</b>
+  <b>✨ Selenium Web Automation — Group 79 ✨</b>
 </div>
