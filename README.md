@@ -1,2 +1,8 @@
-# PythonAutomation
-I am a member of group 3 of Python Automation Course and I will be making submissions through this repo.
+# PythonAutomationGroup3
+We are group 3 students of Python Automation Course.
+
+# Member Details
+Sneha Pramanik
+Tamoshree Dey
+Tanisha Saha
+Sukriti Sikdar
