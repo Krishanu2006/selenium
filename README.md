@@ -16,7 +16,7 @@ The following table contains the Google Drive links for the video demonstrations
 
 | Assignment | Topic | Google Drive Video |
 |---|---|---|
-| **Assignment 1 and Assignment 2** | Web Element Identification and Multiple Element Identification | [▶️ Watch Video]() |
+| **Assignment 1 and Assignment 2** | Web Element Identification and Multiple Element Identification | [▶️ Watch Video](https://drive.google.com/drive/u/0/folders/1Bkre0C0x5LwKf8o0rV_NdKODykSySIMa) |
 | **Assignment 3** | CSS Selector Challenge | [▶️ Watch Video]() |
 | **Assignment 4** | Child Nodes Using CSS | [▶️ Watch Video]() |
 
