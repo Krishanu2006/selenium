@@ -31,19 +31,24 @@ The elements were first checked in the browser's Developer Tools to understand t
 The code is kept simple so that each assignment can be understood separately.
 
 ## Files
-- `requirements.txt` - Required Python packages
-- `README.md` - Assignment information
+
+* `Assignment\_1.3.py` - Assignment 1, 2, 3 and 4 
+* `requirements.txt` - Required Python packages
+* `README.md` - Assignment information
 
 ## Environment
 
-- Python 3.14.7
-- Selenium 4.48.0
-- WebDriver Manager 4.1.2
-- Microsoft Edge
-- Windows
+* Python 3.14.7
+* Selenium 4.48.0
+* WebDriver Manager 4.1.2
+* Microsoft Edge
+* Windows
 
 ## Video
 
-Video 1: Assignment 1 and Assignment 2
+Video 1: Assignment 1 and Assignment 2  
+https://1drv.ms/v/c/BE8C84634BA06F52/IQBLqYZgMEgZSbEuwKnwH9B7AdaeAuTtjRaqUgf\_fDHq0RU?e=oSVrrh
 
-Video 2: Assignment 3 and Assignment 4
+Video 2: Assignment 3 and Assignment 4  
+https://1drv.ms/v/c/BE8C84634BA06F52/IQCej62DISqBTLU70W6TRdTKASPB\_v2FEeVZotNhTl2CIwQ?e=9ywcou
+
