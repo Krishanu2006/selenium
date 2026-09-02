@@ -52,5 +52,5 @@ The following assignments are completed:
 
 \## Demo Video
 
-https://drive.google.com/file/d/1ZCoe9Q\_Q-gYe8JQ4c91RhVnlElWmwg7M/view?usp=sharing
+https://drive.google.com/file/d/1ZCoe9Q_Q-gYe8JQ4c91RhVnlElWmwg7M/view?usp=sharing
 
