@@ -27,3 +27,5 @@ For Assignment 4, we use the Automation Practice Form website to understand how 
 ......................................................................................................................
 
 video link here. https://drive.google.com/file/d/1bdpkO-5_CeQQubkI7tFe1O4BdUygtMNi/view?usp=drivesdk
+
+video link for selenium steup and installation :- https://drive.google.com/file/d/1xEDbQRFVlCr0bW-WWKoC_sjadVvNMb78/view?usp=sharing
