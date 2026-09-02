@@ -18,7 +18,7 @@ The assignment demonstrates the identification of web elements using:
 
 ## Demo video of part 1
 
-[Click here to watch the demonstration video](https://drive.google.com/file/d/1tedCFkkWbuyTPlx2GrtNwG7O9wwrtwfa/view?usp=sharing)
+[Click here to watch the demonstration video](https://drive.google.com/file/d/1IQqMxDhxhBm2EOSvl8y96J_0HuTXKZFN/view?usp=sharing)
 
 ## Description of Part 2
 
