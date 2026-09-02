@@ -6,7 +6,7 @@
 - Soumyajit Ghosh, Enrollment Number: 12023002029142
 
 ## Description
-Submission for Wipro Training Group 6.
+Submission of Assignment 2.
 
 ## Demo
 [Google Drive Link](https://drive.google.com/drive/folders/1uT2g5CUM17NMYGGlcv9k-XMsuoxREnbO?usp=drive_link)
