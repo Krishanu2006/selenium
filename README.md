@@ -22,7 +22,7 @@ The assignments cover Selenium installation and troubleshooting, web element ide
 
 Selenium Installment and troubleshooting : [ Click Here⬈](https://drive.google.com/file/d/1EzHeOPSG0tosbtQ2L5OeBeWiV4UYHfiK/view?usp=drivesdk)
 
-### Assignment 1: Web Element Identification   [ Click Here⬈](https://drive.google.com/file/d/1w64CM8OtncPNQJo5ZQpEsuYCZmTfRd8U/view?usp=drivesdk)
+### Assignment 1: Web Element Identification  [ Click Here⬈](https://drive.google.com/file/d/1w64CM8OtncPNQJo5ZQpEsuYCZmTfRd8U/view?usp=drivesdk)
 
 Identify and locate different web elements using:
 
@@ -32,7 +32,7 @@ Identify and locate different web elements using:
 - `By.LINK_TEXT`
 - `By.CLASS_NAME`
 
-### Assignment 2: Multiple Element Identification
+### Assignment 2: Multiple Element Identification [ Click Here⬈](https://drive.google.com/file/d/1PBBvmZy0pBJ1CZwcHdZKrlA4aO_AU_cL/view)
 
 Identify multiple elements on a webpage using Selenium and work with the list of elements.
 
@@ -47,3 +47,4 @@ Identify and locate child/nested web elements using CSS selectors and interact w
 
 **Reference/Video Link:**  
 [https://youtube.com/watch?v=v-l05NiSYcg&si=VrDme6znhbRZ_Dun]
+
