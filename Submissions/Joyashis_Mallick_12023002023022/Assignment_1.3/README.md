@@ -46,9 +46,6 @@ The code is kept simple so that each assignment can be understood separately.
 
 ## Video
 
-Video 1: Assignment 1 and Assignment 2  
-https://1drv.ms/v/c/BE8C84634BA06F52/IQBLqYZgMEgZSbEuwKnwH9B7AdaeAuTtjRaqUgf\_fDHq0RU?e=oSVrrh
+[Watch Video 1](https://drive.google.com/file/d/1DpjbpFF1mpV5DSUnfgBcEKrp23UafiO-/view?usp=sharing)
 
-Video 2: Assignment 3 and Assignment 4  
-https://1drv.ms/v/c/BE8C84634BA06F52/IQCej62DISqBTLU70W6TRdTKASPB\_v2FEeVZotNhTl2CIwQ?e=9ywcou
-
+[Watch Video 2](https://drive.google.com/file/d/1oJjbCrUZ9LteLkGKHFsRitWzlYliF7B1/view?usp=sharing)
