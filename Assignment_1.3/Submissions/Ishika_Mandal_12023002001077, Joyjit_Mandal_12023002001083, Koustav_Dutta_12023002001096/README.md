@@ -14,4 +14,4 @@ CSS Selector Challenge – Locate web elements using CSS selectors, including wi
 Child Nodes Using CSS – Identify and locate child/nested web elements using CSS child selectors and interact with them (e.g. locating a button inside a specific div).
 
 ## Demo
-https://drive.google.com/file/d/1Dw5kiV6eSNIPJpX_dAPCtNp_nHRkyTKh/view?usp=drivesdk
+https://drive.google.com/drive/folders/1njCFX8tPVVcwPtNJ7W8zszoF1isXMQV-?usp=drive_link
